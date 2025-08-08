@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/followers/PashaSchool?label=Follow&style=social" alt="GitHub followers"/>
   </a>
   <a href="https://www.npmjs.com/package/react-url-query-params">
     <img src="https://img.shields.io/npm/v/react-url-query-params?color=blue&label=npm%20package" alt="npm package"/>
