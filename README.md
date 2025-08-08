@@ -7,9 +7,6 @@
   <a href="https://www.npmjs.com/package/react-url-query-params">
     <img src="https://img.shields.io/npm/v/react-url-query-params?color=blue&label=npm%20package" alt="npm package"/>
   </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/twitter/follow/your-twitter?style=social" alt="Twitter Follow"/>
-  </a>
 </p>
 
 ---
