@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Pavlo 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/PashaSchool">
     <img src="https://img.shields.io/github/followers/PashaSchool?label=Follow&style=social" alt="GitHub followers"/>
   </a>
   <a href="https://www.npmjs.com/package/react-url-query-params">
