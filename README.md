@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Pavlo 👋</h1>
+<h1 align="center">Hi there, I'm Pavlo 👋</h1> 
 
 <p align="center">
   <a href="https://github.com/PashaSchool">
@@ -40,3 +40,9 @@ function MyComponent() {
     </>
   );
 }
+
+```
+
+<center>
+  <a href="https://u8views.com/github/PashaSchool"><img src="https://u8views.com/api/v1/github/profiles/24788713/views/day-week-month-total-count.svg"></a>
+</center>
