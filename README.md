@@ -50,7 +50,7 @@ function ExportButton() {
 A tiny React hook to simplify working with URL query parameters in `react-router-dom`.
 
 ```ts
-import useUrlParams from 'react-url-query-params';
+import { useUrlParams } from 'react-url-query-params';
 
 function MyComponent() {
   const { view, setView, toggleView, isViewGrid, isViewTable } = useUrlParams({
