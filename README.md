@@ -25,9 +25,7 @@
 
   ### [featuremap](https://github.com/PashaSchool/featuremap)
   CLI that analyzes git history to automatically detect features in your codebase and surface technical debt hotspots — no Jira required.
-  ```bash
-  pip install featuremap && featuremap analyze .
-```
+
 
 ### [react-csv-autopilot](https://www.npmjs.com/package/react-csv-autopilot)
 React hooks for CSV export with automatic pagination - drop the function, we handle the rest.
