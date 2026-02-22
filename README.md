@@ -10,18 +10,24 @@
   <a href="https://www.npmjs.com/package/react-csv-autopilot">
     <img src="https://img.shields.io/npm/v/react-csv-autopilot?color=green&label=react-csv-autopilot" alt="npm package"/>
   </a>
+      <a href="https://pypi.org/project/featuremap">
+      <img src="https://img.shields.io/pypi/v/featuremap?color=orange&label=featuremap" alt="PyPI"/>
+    </a>
 </p>
 
----
+  ---
 
-## About Me
-- **Frontend Developer** focused on React & TypeScript
-- Building useful **React hooks & npm packages**
-- Writing about code and sharing open-source projects
+  Frontend Developer focused on React & TypeScript. I build open-source tools — npm packages and CLI utilities.
 
----
+  ---
 
-## 📦 My npm Packages
+  ## Open Source
+
+  ### [featuremap](https://github.com/PashaSchool/featuremap)
+  CLI that analyzes git history to automatically detect features in your codebase and surface technical debt hotspots — no Jira required.
+  ```bash
+  pip install featuremap && featuremap analyze .
+```
 
 ### [react-csv-autopilot](https://www.npmjs.com/package/react-csv-autopilot)
 React hooks for CSV export with automatic pagination - drop the function, we handle the rest.
@@ -30,5 +36,3 @@ React hooks for CSV export with automatic pagination - drop the function, we han
 ### [react-url-query-params](https://www.npmjs.com/package/react-url-query-params)
 A tiny React hook to simplify working with URL query parameters in `react-router-dom`.
 
-## 🌟 Support
-If you find my projects useful, consider giving them a ⭐️ on [GitHub](https://github.com/PashaSchool/utils-kit)!
