@@ -43,7 +43,7 @@ A CLI tool that analyses git history to identify which areas of a codebase carry
 
 ---
 
-### [react-csv-autopilot](https://github.com/PashaSchool/react-csv-autopilot)
+### [react-csv-autopilot](https://github.com/PashaSchool/utils-kit/tree/main/packages/react-csv-autopilot)
 > **CSV exports that handle pagination automatically.**
 
 A React hooks library that makes large CSV exports painless. Pass it a paginated data source and it handles the batching logic, so UI code stays clean.
