@@ -53,7 +53,7 @@ A React hooks library that makes large CSV exports painless. Pass it a paginated
 
 ---
 
-### [react-url-query-params](https://github.com/PashaSchool/react-url-query-params)
+[### [react-url-query-params]([https://github.com/PashaSchool/react-url-query-params](https://github.com/PashaSchool/utils-kit/tree/main/packages/react-url-query-params))]
 > **Lightweight URL state for react-router-dom.**
 
 A minimal React hook that makes reading and writing URL query parameters as ergonomic as `useState`, with full compatibility with react-router-dom.
