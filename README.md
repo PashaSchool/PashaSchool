@@ -37,9 +37,14 @@ npx design-auditor https://yoursite.com
 ### [featuremap](https://github.com/PashaSchool/featuremap)
 > **Surface technical debt without opening Jira.**
 
-A CLI tool that analyses git history to identify which areas of a codebase carry the most accumulated complexity and change pressure — giving teams an objective view of where technical debt lives.
+A CLI tool that analyses git history to automatically detect features in your codebase and surface which ones accumulate the most bug fixes — giving teams an objective, data-driven view of where technical debt lives. Supports LLM-powered semantic feature detection (Claude or local Ollama) and user-facing flow mapping.
+
+```bash
+pip install faultline
+```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+[![PyPI](https://img.shields.io/pypi/v/faultline)](https://pypi.org/project/faultline/)
 
 ---
 
