@@ -34,17 +34,22 @@ npx design-auditor https://yoursite.com
 
 ---
 
-### [featuremap](https://github.com/PashaSchool/featuremap)
-> **Surface technical debt without opening Jira.**
+### [Faultlines](https://github.com/PashaSchool/faultlines) &nbsp; [![faultlines.dev](https://img.shields.io/badge/faultlines.dev-2563eb?style=flat)](https://faultlines.dev)
+> **Know where technical debt lives — no Jira required.**
 
-A CLI tool that analyses git history to automatically detect features in your codebase and surface which ones accumulate the most bug fixes — giving teams an objective, data-driven view of where technical debt lives. Supports LLM-powered semantic feature detection (Claude or local Ollama) and user-facing flow mapping.
+An automated code intelligence platform that analyses git history to detect features, map user-facing flows, and surface bug-fix hotspots across your codebase. Gives engineering teams an objective, data-driven view of what to refactor next.
+
+- Sonnet-powered semantic feature detection with monorepo and workspace support
+- Health scoring per feature based on bug-fix ratio, churn, and contributor patterns
+- CLI for local analysis, SaaS dashboard for team-wide visibility
 
 ```bash
-pip install faultline
+pip install faultlines
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-[![PyPI](https://img.shields.io/pypi/v/faultline)](https://pypi.org/project/faultline/)
+![Claude](https://img.shields.io/badge/Claude_AI-191919?style=flat&logo=anthropic&logoColor=white)
+[![Site](https://img.shields.io/badge/faultlines.dev-2563eb?style=flat)](https://faultlines.dev)
 
 ---
 
