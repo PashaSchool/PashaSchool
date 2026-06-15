@@ -1,3 +1,12 @@
+<div align="center">
+  <a href="https://dynvo.ai">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PashaSchool/PashaSchool/main/assets/dynvo-logo-dark.png">
+      <img alt="dynvo.ai" src="https://raw.githubusercontent.com/PashaSchool/PashaSchool/main/assets/dynvo-logo-light.png" width="320">
+    </picture>
+  </a>
+</div>
+
 # Pavlo Kuzina — Frontend Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pavlo--kuzina-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/pavlo-kuzina-549646197)
@@ -6,15 +15,15 @@
 
 ---
 
-Frontend developer specialising in **React** and **TypeScript**, with a focus on developer tooling and open-source utilities. I build things that help teams write cleaner code, catch technical debt early, and ship more consistent interfaces - and I'm currently building **[Faultlines](https://faultlines.dev)** end to end, from the analysis engine to the product.
+Frontend developer specialising in **React** and **TypeScript**, with a focus on developer tooling and open-source utilities. I build things that help teams write cleaner code, catch technical debt early, and ship more consistent interfaces - and I'm currently building **[Dynvo](https://dynvo.ai)** end to end, from the analysis engine to the product.
 
 ---
 
-## Featured · [Faultlines](https://github.com/PashaSchool/faultlines) &nbsp; [![faultlines.dev](https://img.shields.io/badge/faultlines.dev-39E6FF?style=flat&logoColor=white)](https://faultlines.dev)
+## Featured · [Dynvo](https://github.com/PashaSchool/dynvo) &nbsp; [![dynvo.ai](https://img.shields.io/badge/dynvo.ai-39E6FF?style=flat&logoColor=white)](https://dynvo.ai)
 
 > **A live, feature-level map of your codebase — built for engineering teams and the AI agents working alongside them.**
 
-Faultlines turns months of git history into a structured map of your product. It detects the **features** in your code and the **user flows** that run through them, scores each one for health, and pins down exactly where technical debt and regression risk actually live - no Jira archaeology, no manual tagging, no annotations to maintain. One cold scan, two audiences:
+Dynvo turns months of git history into a structured map of your product. It detects the **features** in your code and the **user flows** that run through them, scores each one for health, and pins down exactly where technical debt and regression risk actually live - no Jira archaeology, no manual tagging, no annotations to maintain. One cold scan, two audiences:
 
 **For engineers** - a "Signal Room" dashboard with per-feature health, coverage gaps, hotspots, change-impact (blast radius), and bus-factor risk. PR comments that show what a diff actually touches *before* you merge, plus weekly Slack digests of where the codebase is drifting.
 
@@ -30,16 +39,16 @@ Faultlines turns months of git history into a structured map of your product. It
 
 ```bash
 # 1 · Scan a repo locally with the open-source engine
-pip install faultlines
-faultlines analyze ~/my-project --llm --flows --symbols
+pip install dynvo
+dynvo scan-v2 ~/my-project --llm
 
 # 2 · Give your AI agent the map (Cursor / Claude Code / Cline)
-npx -y mcp-remote https://app.faultlines.dev/api/mcp
+npx -y mcp-remote https://app.dynvo.ai/api/mcp
 ```
 
 ![Python](https://img.shields.io/badge/engine-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Claude](https://img.shields.io/badge/LLM-Claude-191919?style=flat&logo=anthropic&logoColor=white)
-[![Live](https://img.shields.io/badge/Try_it-faultlines.dev-39E6FF?style=flat)](https://faultlines.dev)
+[![Live](https://img.shields.io/badge/Try_it-dynvo.ai-39E6FF?style=flat)](https://dynvo.ai)
 
 **Tech behind it** &nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
