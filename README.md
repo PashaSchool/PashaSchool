@@ -1,3 +1,41 @@
+<!--
+  Profile card in the neofetch / onefetch style.
+  Everything is plain text inside a code block, so edit any line directly.
+  Renders best on GitHub's dark theme. Swap you@example.com for your email.
+-->
+
+```
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░▒▒▓▓▓▒▒▓▒▒▒▒▒▒▒   pavlo@kuzina
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░        ░░░ ░▒▒▒▓▒▒▒▒   ────────────────────────
+▒▒▒▒▒▒▒▒▓▒▒▒▒▒▒▒▒░                  ░▒▓▓▓▓
+▒▒▒▒▒▒▒▒▓▒▒▒▒▒░                      ░▒▒▓▓   OS ............. macOS · Linux
+▓▓▓▓▓▓▓▓▓▒▒▒▒                           ░▒   Uptime ......... 8 yrs in frontend
+▒▒▒▒▒▒▒▒▒▒▒▒░                           ▒▒   Role ........... Frontend Eng → AI product
+░░░░░░░░░░▒▒░           ░░              ▒▓   Shell .......... Claude Code + Obsidian (MCP)
+░░░░░░░░▒░▒▒          ░ ░▓░              ▓   Editor ......... VS Code · Cursor
+░░░░░░▒▒▒░▒▒        ░░▓▓▓█▓▒▒▓▒  ▒░ ░  ░▒▓
+░░░▒▒▒░░▒░▒▒░ ░░▒░  ▒▓█▓▒▒▒▒▒▒▒▒▒█▓▓▓░ ▓█▒   Code ........... TS · JavaScript · Python
+░░░░░░▒▒▒░▒▒▒░▒▒░▒ ░▒░░░▒▒▒░░▒▓██▓▒░░░▓██▓   Frontend ....... React · Next.js · Three.js
+░░░▒▒▒▒▒▒░░▒▒░▒▒▒▓▒▒██░▓██▓░▓█░▒░▒▒▒░▒░▓██   Spoken ......... Ukrainian · English
+░░░░░░░▒▒░▒▒▒▒░░▒▒▓▓▓█▒▒▓█▓▒█▒▒█▒▒▒▓▓▒░███
+░     ░▒▒▒▒▒▒▒▒░ ░▒▓███▓▓▓▓▓▓▓██▓▒▓▒▒▒▒▓██   Building ....... Dynvo — a live map of your
+      ░░░░░▒▒▒░░▒▒▒▓█████████▓▓▓▓▓▓▒▓▓▓░▓█                    codebase, w/ MCP for AI agents
+ ░░▒▒▒▒▓▓▓▓▓█▒▒▓▓▓▒▒▓████▓▓▓▓█▓▓▓▓▒▓▓▓▓▓▒█   Also ........... design-auditor · utils-kit
+▒▓▓▓█████████▒▓▓▓▓▓▒▒▒▓██████▓██▓▒▓▓▓▓▓▓▒▒   Into ........... dev tooling · AI agents · security
+████▓████████▓▒█▓██▓▓▒▒▒▓██████▓▒▓▓▓▓▓▓▓▓░
+██████████████▒▓██████▓▒▒▓▓▓▓▓▓███▓▓▓▓▓▓▓▓   GitHub ......... @PashaSchool
+███████████████▓▓████▓▒▒████████████▓▓▓▓▓▓   LinkedIn ....... pavlo-kuzina
+████████████████▓▓▓▓▓▓▓████████████████▓▒▒   Web ............ dynvo.ai
+███████████████████▓██████████████████▓▓█▓   Email .......... you@example.com
+██████████████████████████████▓██████▓▒██░
+                                             Repos 48 · Stars 57 · Followers 7
+```
+
+
+
+
+
+
 <div align="center">
   <a href="https://dynvo.ai">
     <picture>
